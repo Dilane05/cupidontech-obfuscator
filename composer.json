@@ -2,13 +2,13 @@
   "name": "cupidontech/obfuscator",
   "description": "Laravel/PHP source code obfuscator with AST transformation and encryption.",
   "keywords": ["laravel", "php", "obfuscator", "security", "encryption"],
-  "homepage": "https://github.com/cupidontech/obfuscator",
+  "homepage": "https://github.com/Dilane05/cupidontech-obfuscator",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Ton Nom",
-      "email": "ton.email@domain.com"
+      "name": "Dilane Taptue",
+      "email": "cupidontech3@gmail.com"
     }
   ],
   "require": {
